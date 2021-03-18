@@ -5,7 +5,7 @@ to transform points into a heat layer.
 ![Screenshot](screenshot.png)
 
 ## Demo
-https://handsondataviz.github.io/leaflet-heatmap
+https://malikshuja.github.io/HandsOnDataViz-leaflet-heatmap/
 
 Sample data by the [Metropolitan Police Service](https://data.police.uk/data/) for January–July 2020.
 
